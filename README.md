@@ -31,7 +31,7 @@ Each topic/module is organized into its own folder that may include:
 
 ---
 
-## 🎯 Why This Repo Exists
+## 🎯 Purpose
 
 This repository is built as:
 - A personal reference hub for concepts explored in the Digital Nurture program  
