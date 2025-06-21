@@ -1,4 +1,4 @@
-# 📘 Digital Nurture Program – Hands-On Learning Repository
+# 📘 Digital Nurture Program – Hands-On Learning 
 
 Welcome to this repository that captures the hands-on exercises, examples, and practical implementations built as part of the **Cognizant Digital Nurture Program**.  
 The aim is to consolidate key learnings from both foundational and advanced technical modules in one place for easy reference and continued practice.
