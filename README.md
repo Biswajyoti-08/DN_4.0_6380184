@@ -1,44 +1,43 @@
-# DN_4.0_6380184
-# 📘 Cognizant Digital Nurture Program – Hands-On Solutions
+# 📘 Digital Nurture Program – Hands-On Learning Repository
 
-Welcome to the repository containing **hands-on solutions** and practical implementations for various modules covered under the **Cognizant Digital Nurture Program**.  
-This repository is created to document and consolidate learning across a range of foundational and advanced technical topics delivered during the program.
-
----
-
-## 🧠 Modules Covered
-
-This repository will include working examples, code snippets, and exercises related to the following modules:
-
-- 🛠️ **Engineering Concepts**  
-- 🧾 **Version Control with Git**  
-- 🧪 **Unit Testing with JUnit**  
-- 🐱 **Mocking with Mockito and Logging with SLF4J**  
-- 🧬 **Microservices Architecture**  
-- 💻 **Frontend Development with React**  
-- 🗃️ **Database Programming with PL/SQL**  
-- 🌀 **Spring Core and Maven**  
-- 🐘 **Spring Data JPA with Hibernate**  
-- 🌐 **Spring RESTful APIs using Spring Boot**
+Welcome to this repository that captures the hands-on exercises, examples, and practical implementations built as part of the **Cognizant Digital Nurture Program**.  
+The aim is to consolidate key learnings from both foundational and advanced technical modules in one place for easy reference and continued practice.
 
 ---
 
-## 🗂️ Structure
+## 🧠 Topics & Modules
 
-Each module will have a dedicated folder containing:
-- Source code  
-- Readme (if needed)  
-- Instructions or setup guide (where applicable)
+This repo features working code samples, mini-projects, and snippets covering the following areas:
+
+- 🛠️ **Core Engineering Fundamentals**  
+- 🔧 **Git & Version Control Basics**  
+- 🧪 **Unit Testing using JUnit**  
+- 🧙 **Mocking with Mockito + Logging using SLF4J**  
+- 🔗 **Microservices Design & Patterns**  
+- 🌐 **Frontend Development with React**  
+- 🗄️ **PL/SQL for Database Programming**  
+- ☕ **Spring Core & Maven Build Tooling**  
+- 🧬 **Spring Data JPA + Hibernate ORM**  
+- 🚀 **Building RESTful APIs with Spring Boot**
 
 ---
 
-## 🎯 Purpose
+## 📁 Folder Layout
 
-This repo serves as:  
-- A reference for fellow learners and developers  
-- A revision hub for concepts learned in the Digital Nurture journey  
-- A showcase of skills and hands-on implementation of real-world tech stacks
+Each topic/module is organized into its own folder that may include:
+- 📄 Source code  
+- 📘 Readme or setup instructions (when required)  
+- 🛠️ Any configuration or supporting documentation
 
-Feel free to clone, fork, or contribute if you're on the same learning path.  
-**Happy coding!** 🚀👨‍💻👩‍💻
+---
+
+## 🎯 Why This Repo Exists
+
+This repository is built as:
+- A personal reference hub for concepts explored in the Digital Nurture program  
+- A platform to showcase practical work and tech stack exposure  
+- A helpful resource for peers who are on a similar upskilling journey
+
+Feel free to explore, fork, or contribute if you find it helpful.  
+**Happy Learning!** 🌱💡🚀
 
