@@ -38,6 +38,5 @@ This repository is built as:
 - A platform to showcase practical work and tech stack exposure  
 - A helpful resource for peers who are on a similar upskilling journey
 
-Feel free to explore, fork, or contribute if you find it helpful.  
-**Happy Learning!** 🌱💡🚀
+Feel free to explore, fork, or contribute if you find it helpful 🚀
 
