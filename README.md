@@ -25,9 +25,8 @@ This repo features working code samples, mini-projects, and snippets covering th
 ## 📁 Folder Layout
 
 Each topic/module is organized into its own folder that may include:
-- 📄 Source code  
-- 📘 Readme or setup instructions (when required)  
-- 🛠️ Any configuration or supporting documentation
+- 📄 Source code   
+- 🛠️ Output
 
 ---
 
