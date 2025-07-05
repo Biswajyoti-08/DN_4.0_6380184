@@ -1,0 +1,27 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="
+         http://www.springframework.org/schema/beans
+         http://www.springframework.org/schema/beans/spring-beans.xsd
+         http://www.springframework.org/schema/aop
+         http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+  <!-- Enable AspectJ @Aspect support -->
+  <aop:aspectj-autoproxy/>
+
+  <!-- Service and Repository beans -->
+  <bean id="bookRepository"
+        class="com.librarymanagement.repository.BookRepository"/>
+  
+  <bean id="bookService"
+        class="com.librarymanagement.service.BookService">
+    <property name="bookRepository" ref="bookRepository"/>
+      <constructor-arg name="bookRepository" ref="bookRepository"/>
+  </bean>
+  
+  <!-- Logging aspect -->
+  <bean id="loggingAspect"
+        class="com.librarymanagement.aspect.LoggingAspect"/>
+  
+</beans>

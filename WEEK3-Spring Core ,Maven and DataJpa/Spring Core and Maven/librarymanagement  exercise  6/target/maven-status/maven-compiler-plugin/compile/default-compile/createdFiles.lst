@@ -1,0 +1,4 @@
+com\librarymanagement\App.class
+com\librarymanagement\aspect\LoggingAspect.class
+com\librarymanagement\repository\BookRepository.class
+com\librarymanagement\service\BookService.class
